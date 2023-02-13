@@ -5,6 +5,6 @@ This app was created using the following tutorial: https://www.youtube.com/watch
 ## Further developement
 
 ### To do
-1. Persistent tasks(If I refresh the page the tasks will remain visible)
+1. <s>Persistent tasks(If I refresh the page the tasks will remain visible) </s> ✔
 2. Convert this app to ReactJS
 3. Integrate with firebase to store tasks and their status
